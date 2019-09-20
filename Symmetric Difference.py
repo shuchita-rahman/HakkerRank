@@ -13,3 +13,5 @@ result = subSetOne.union(subSetTwo)
 
 #sort the result and print it
 print("\n".join(sorted(result,key= int)))
+
+
