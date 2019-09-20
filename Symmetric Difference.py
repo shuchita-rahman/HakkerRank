@@ -2,10 +2,10 @@
 n, set1 = int(input()),set(input().split())
 m,set2 = int(input()),set(input().split())
 
-#put differnce value of set2 in subSetOne
+#put values of set2 in subSetOne which are not in set1
 subSetOne = set1.difference(set2)
 
-#put differnce value of set1 in subSetTwo
+#put  value of set1 in subSetTwo which are not in set2
 subSetTwo =set2.difference(set1)
 
 #concante two set
