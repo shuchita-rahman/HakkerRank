@@ -9,3 +9,5 @@ ab, bc = int(input()), int(input())
 # ∠A = tan0 =(opposite / adjacent)
 
 print("{0:.0f}°".format(math.degrees(math.atan(ab/bc))))
+
+
