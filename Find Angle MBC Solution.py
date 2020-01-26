@@ -4,7 +4,7 @@ ab, bc = int(input()), int(input())
 
 #In, △ABC ∠B= 90∘ and Mid point = M
 #After drawing line from M to A we find a new △AMB.
-#AM = MB in △AMB [midpoint therom]
+#AM = MB[midpoint therom]
 #So, AMB is a isoceles △ and ∠MBA = ∠A
 # ∠A = tan0 =(opposite / adjacent)
 
